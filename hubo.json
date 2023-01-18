@@ -134,14 +134,14 @@
     "homepage": "https://gitcode.net/qq_32394351/dr_py",
     "sites": [
 	{
-	    "key":"Alist",
-	    "name":"Alist",
-	    "type":3,
-	    "api":"http://101.34.67.237/libs/alist.min.js",
-	    "searchable":1,
-	    "quickSearch":1,
-	    "filterable":0,
-	    "ext":"https://raw.fastgit.org/floatiss001/hubonewbee/main/alist.json"
+	    "key": "Alist",
+	    "name": "Alist",
+	    "type": 3,
+	    "api": "http://101.34.67.237/libs/alist.min.js",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "https://raw.fastgit.org/floatiss001/hubonewbee/main/alist.json"
 	},
 	{
             "key": "csp_新视觉",
@@ -151,7 +151,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-	    "jar":"http://101.34.67.237/files/新视觉.jar"
+	    "jar": "http://101.34.67.237/files/新视觉.jar"
         },
         {
             "key": "dr_海盗听书",
