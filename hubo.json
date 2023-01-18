@@ -5,8 +5,8 @@
     "spider": "http://101.34.67.237/files/custom_spider_tang.jar",
     "drives": [
         {
-            "name": "博哥的Alist",
-            "server": "http://192.168.2.254:5678",
+            "name": "小雅的Alist",
+            "server": "http://alist.xiaoya.pro",
             "type": "alist"
         },
         {
